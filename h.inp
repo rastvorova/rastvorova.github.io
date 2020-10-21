@@ -1,0 +1,10 @@
+! UHF SVP XYZFile
+%plots Format Cube
+ MO("H-1.cube",1,0);
+ MO("H-2.cube",2,0);
+ MO("H-3.cube",3,0);
+ MO("H-4.cube",4,0);
+end
+* xyz 0 4
+ H 0 0 0
+*
